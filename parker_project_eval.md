@@ -1,3 +1,8 @@
+Isaac Parker
+Project Review
+2-20-2016
+##The Virtual St Paul’s Cathedral Project
+
 
 ##Project Overview
  After being destroyed in the great London fire of 1666, pre-fire St. Paul’s Cathedral is brought back to life by John N. Wall, Ben Crystal and many other contributors through architectural modeling and acoustic simulation. The Virtual Paul's Cross Project, grants visitors to the site the ability to explore preaching as it would have been experienced in early modern London. Through the project we can gain full auditory information about what it must have been like to be at the historic Cathedral in real-time as John Donne delivered his gunpowder day (Guy Fawkes Day for you V for vendetta fans) on Tuesday, November 5, 1622. Thanks to preserved records and manuscripts, the pre-Fire St. Paul's Cathedral that history lost can now be explored. The modeling system does well to integrate the physical traces of these documents with images of the cathedral and its surroundings to create a visual model of the Cathedral and its churchyard. According to the project’s website:
