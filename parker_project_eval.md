@@ -19,19 +19,20 @@ However, the content is not without its cons. While the project attempt to repre
 ##Design & Technique
 
 ###The Design:
-	The design of the project seamlessly merges concept and content with functionality. Information is easily accessible and carefully presented for users. However, the ease of access does not eliminate challenge and exploration as the environment of the project provides a sense of dynamics in terms of interaction between user and content. 
+The design of the project seamlessly merges concept and content with functionality. Information is easily accessible and carefully presented for users. However, the ease of access does not eliminate challenge and exploration as the environment of the project provides a sense of dynamics in terms of interaction between user and content. 
+
 Where the project fall short, perhaps a lot more than short, it is a major oversight in my opinion; is in its delivery of the project to different platforms. My above statement of the design being seamlessly presented only holds true if the mode of interaction is a pc , desktop computer or laptop with a screen size of around 7 inches or more (trust me I personally tested this). Furthermore, the project is rendered completely fruitless as no attempts were made to scale the project base on the user’s display device, which in turn breaks the emersion of the environment being presented. Also this project was first developed in 2012 and then revisited in 2014. So to have a site that was developed between 2012-2014 and it not be mobile compatible is actually rare in this day and age. Especially considering the push/trend of responsive web design began in 2010.  
 
 ###The Technique:
-	There is nothing more to say about the technique that can do justice to the work done. Simply the techniques used must have been done by super advanced, human history loving space aliens. Currently I am unable to even begin to explain how the same auditory data can be projected differently based on where on is in a sketched modeled environment. It is simply amazing; I greatly applaud the audio engineers!  
+There is nothing more to say about the technique that can do justice to the work done. Simply the techniques used must have been done by super advanced, human history loving space aliens. Currently I am unable to even begin to explain how the same auditory data can be projected differently based on where on is in a sketched modeled environment. It is simply amazing; I greatly applaud the audio engineers!  
   
 ##Collaboration & Documentation
-	This is perhaps the strongest point of the project. The documentation is without question flawless. There is no portion of this project that could have been done without proper documentation. Additionally, in terms of collaboration, I believe it says a lot to the dedication of the development team to have the st Paul's Cathedral Archaeologist be the pain source of historical and environmental data. 
+This is perhaps the strongest point of the project. The documentation is without question flawless. There is no portion of this project that could have been done without proper documentation. Additionally, in terms of collaboration, I believe it says a lot to the dedication of the development team to have the st Paul's Cathedral Archaeologist be the pain source of historical and environmental data. 
   
-	The project allows for collaboration from multiple fields of study as the environment in some ways restores not only a piece of lost history, but immerses users within the environment, culture, feel of the event as well as time in history. 
+The project allows for collaboration from multiple fields of study as the environment in some ways restores not only a piece of lost history, but immerses users within the environment, culture, feel of the event as well as time in history. 
 
 ###Final Thoughts:
-	Overall the Virtual St Paul’s Cathedral Project does a great job of bring to life an abstract idea and making an immersive, welcoming environment for personal enjoyment and historical references.   
+Overall the Virtual St Paul’s Cathedral Project does a great job of bring to life an abstract idea and making an immersive, welcoming environment for personal enjoyment and historical references.   
 
 
 
