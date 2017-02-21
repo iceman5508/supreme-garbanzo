@@ -1,6 +1,6 @@
-Isaac Parker<br>
-Project Review<br>
-2-20-2016<br>
+###Isaac Parker<br>
+###Project Review<br>
+###2-20-2016<br>
 ##The Virtual St Paul’s Cathedral Project
 
 
